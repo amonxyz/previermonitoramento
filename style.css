@@ -1386,16 +1386,16 @@
  #submit-button {
  	background-color: transparent;
  	border: 2px solid #f4bf00;
- 	/* Adicione uma borda branca para manter a visibilidade */
+
  	color: #f4bf00;
- 	/* Altera a cor do texto para branco */
+
  	transition: background-color 0.3s, color 0.3s;
- 	/* Adiciona uma transição suave */
+
  }
 
  #submit-button:hover {
  	background-color: #f4bf00;
- 	/* Altera a cor de fundo ao passar o mouse */
+
  	color: black;
- 	/* Altera a cor do texto ao passar o mouse */
+
  }
